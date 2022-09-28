@@ -4,7 +4,7 @@
 **stellagiatsou/stellagiatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+<hr>
 - 🔭 I’m currently working on my website
 
 - 🌱 I’m currently learning more about Adobe Illustrator & Figma
@@ -15,6 +15,7 @@ Here are some ideas to get you started: -->
 
 - ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS & JavaScript but knowledge never stops!
 
+<hr>
 #### Connect with me on LinkedIn:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/stellagiatsou/)  

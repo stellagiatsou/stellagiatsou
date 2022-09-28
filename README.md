@@ -3,7 +3,7 @@
 **stellagiatsou/stellagiatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<br>
+<hr>
 
 - 🔭 I’m currently working on my website
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 - ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma but knowledge never stops!
 
-<hr>
+<br>
 
 #### Connect with me on LinkedIn:
 

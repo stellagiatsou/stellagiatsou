@@ -16,6 +16,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS & JavaScript but knowledge never stops!
 
 <hr>
+
 #### Connect with me on LinkedIn:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/stellagiatsou/)  

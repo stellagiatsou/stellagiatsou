@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me: <a href="mailto:stelagiatsou@gmail.com"> stelagiatsou@gmail.com </a>
 
-- ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS & JavaScript but knowledge never stops!
+- ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma but knowledge never stops!
 
 <hr>
 

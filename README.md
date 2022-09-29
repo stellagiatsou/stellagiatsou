@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 #### Connect with me on LinkedIn:
 
-[<img src='linkedin.png' alt='linkedin' width='25'>](https://www.linkedin.com/in/stellagiatsou/)  
+[<img src='linkedin.png' alt='linkedin' width='30'>](https://www.linkedin.com/in/stellagiatsou/)  
 
 
 <!--

@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
 
 #### Connect with me on LinkedIn:
 
+[<img src='linkedin.png' alt='linkedin' width='19'>](https://www.linkedin.com/in/stellagiatsou/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/stellagiatsou/)  
 
 <!--

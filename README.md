@@ -8,6 +8,8 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning more about Adobe Illustrator & Figma
 
+- 🌱 I’m reading about HTML5, SEO and Google Analytics
+
 - 😄 My goal by January 2023 is to have full knowledge of HTML, CSS & JavaScript languages
 
 - 📫 How to reach me: <a href="mailto:stelagiatsou@gmail.com"> stelagiatsou@gmail.com </a>

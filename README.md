@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my website
+- 🔭 I’m currently working on my personal website
 
 - 🌱 I’m currently learning more about Adobe Illustrator & Figma
 

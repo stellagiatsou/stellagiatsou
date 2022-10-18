@@ -12,13 +12,13 @@ Here are some ideas to get you started: -->
 
 - 😄 My goal by January 2023 is to have full knowledge of HTML, CSS & JavaScript languages
 
-- 📫 How to reach me: <b><a href="mailto:stelagiatsou@gmail.com" style="text-decoration:none" target="_blank"> stelagiatsou@gmail.com </a></b>
+- 📫 How to reach me: <b><a href="mailto:stelagiatsou@gmail.com" target="_blank"> stelagiatsou@gmail.com </a></b>
 
 - ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma but knowledge never stops!
 
 <br>
 
-<b>Resume:</b> <a href="https://drive.google.com/file/d/1QNMtAcXnFrZ8Edi8HhrT5ig6N0Ht97NB/view?usp=sharing"> Resume.pdf </a>
+<b>Resume:</b> <a href="https://drive.google.com/file/d/1QNMtAcXnFrZ8Edi8HhrT5ig6N0Ht97NB/view?usp=sharing" target="_blank"> Resume.pdf </a>
 
 #### Connect with me on LinkedIn:
 

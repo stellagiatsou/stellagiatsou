@@ -18,6 +18,8 @@ Here are some ideas to get you started: -->
 
 <br>
 
+Resume: <a href="https://drive.google.com/file/d/1QNMtAcXnFrZ8Edi8HhrT5ig6N0Ht97NB/view?usp=sharing"> Stella Giatsou </a>
+
 #### Connect with me on LinkedIn:
 
 [<img src='linkedin.png' alt='linkedin' width='30'>](https://www.linkedin.com/in/stellagiatsou/)  

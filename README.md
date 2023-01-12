@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 <br>
 
-<b>Resume:</b> <a href="https://drive.google.com/file/d/1QNMtAcXnFrZ8Edi8HhrT5ig6N0Ht97NB/view?usp=sharing" target="_blank"> Resume.pdf </a>
+
 
 #### Connect with me on LinkedIn:
 

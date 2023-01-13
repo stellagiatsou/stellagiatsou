@@ -4,17 +4,15 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently working on my personal website and doing my thesis
 
 - 🌱 I’m currently learning more about Adobe Illustrator & Figma
 
-- 🌱 I’m reading about HTML5, SEO and Google Analytics
-
-- 😄 My goal by January 2023 is to have full knowledge of HTML, CSS & JavaScript languages
+- 🌱 I’m reading about JavaScript
 
 - 📫 How to reach me: <b><a href="mailto:stelagiatsou@gmail.com" target="_blank"> stelagiatsou@gmail.com </a></b>
 
-- ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma but knowledge never stops!
+- ⚡ Fun fact: I did my internship as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma 
 
 <br>
 

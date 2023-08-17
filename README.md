@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 <!--- 🌱 I’m currently learning more about Adobe Illustrator & Figma-->
 
-- 🌱 I’m reading about JavaScript
+- 🌱 Learning about JS6+, ECMAScript, REACT
 
 - 📫 How to reach me: <b><a href="mailto:stelagiatsou@gmail.com" target="_blank"> stelagiatsou@gmail.com </a></b>
 

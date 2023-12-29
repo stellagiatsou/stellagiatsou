@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 Budibase lover
 
-- ⚡ Fact: I did my internship as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma 
+- ⚡ Experienced as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma 
 
 - :pushpin: Based in Athens, Greece
 

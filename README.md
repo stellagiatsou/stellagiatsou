@@ -4,13 +4,13 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 A Low Code Application Developer
+- 🔭 A Low Code Application Developer & UAT member
 
 <!--- 🌱 I’m currently learning more about Adobe Illustrator & Figma-->
 
-- 🌱 Budibase lover
+- 🌱 Manual Tester and Bug Tracing individual
 
-- ⚡ Experienced as a Junior Frontend Developer using HTML, CSS, JavaScript, Bootstrap & Figma 
+- ⚡ Experienced as a Junior Frontend Developer using HTML, CSS, Vanilla JavaScript, Bootstrap & Figma 
 
 - :pushpin: Based in Athens, Greece
 

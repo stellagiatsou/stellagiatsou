@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 <!--- 🌱 I’m currently learning more about Adobe Illustrator & Figma-->
 
-- 🌱 Manual Tester and Bug Tracing individual
+- 🌱 Manual Tester and Bug Tracking individual
 
 - ⚡ Experienced as a Junior Frontend Developer using HTML, CSS, Vanilla JavaScript, Bootstrap & Figma 
 

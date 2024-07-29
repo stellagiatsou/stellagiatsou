@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 Manual Tester and Bug Tracking individual
 
-- ⚡ Experienced as a Junior Frontend Developer using HTML, CSS, Vanilla JavaScript, Bootstrap & Figma 
+- ⚡ Experienced as a Junior Frontend Developer too
 
 - :pushpin: Based in Athens, Greece
 

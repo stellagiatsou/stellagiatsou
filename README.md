@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 A Low Code Application Developer & UAT member
+- 🔭 A Low Code Applications Developer & UAT member
 
 <!--- 🌱 I’m currently learning more about Adobe Illustrator & Figma-->
 

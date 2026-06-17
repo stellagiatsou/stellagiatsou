@@ -4,13 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 A Low Code Applications Developer & UAT member
-
-<!--- 🌱 I’m currently learning more about Adobe Illustrator & Figma-->
-
-- 🌱 Manual Tester and Bug Tracking individual
-
-- ⚡ Experienced as a Junior Frontend Developer too
+- 🔭 A Low Code Applications Developer with an interest in human‑centered design and experience in Frontend Development. When I’m not building, I’m capturing moments with my camcorder, travelling, or reading — anything that feeds my curiosity and nostalgia.
 
 - :pushpin: Based in Athens, Greece
 
